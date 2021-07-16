@@ -1,3 +1,8 @@
+/**
+ * Nos ide kell majd leírás ...
+ * dokumentációs célzattal... 
+ */
+
 package hu.ntc_studio.CodeImage;
 
 import javafx.application.Application;
